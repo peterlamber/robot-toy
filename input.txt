@@ -1,0 +1,6 @@
+PLACE(1,1,N)
+LEFT
+MOVE
+gg
+MOVE
+REPORT
